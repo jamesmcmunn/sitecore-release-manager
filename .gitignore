@@ -6,3 +6,4 @@ obj
 *.user
 /**/obj
 /**/obj/**
+/_publish
