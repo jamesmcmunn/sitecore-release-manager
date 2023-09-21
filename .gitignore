@@ -1,0 +1,8 @@
+/Backup
+.vs
+packages
+bin
+obj
+*.user
+/**/obj
+/**/obj/**

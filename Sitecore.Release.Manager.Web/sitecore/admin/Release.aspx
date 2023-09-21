@@ -3,19 +3,15 @@
 <%@ Import Namespace="System.Collections.Generic" %>
 <%@ Import Namespace="System.Globalization" %>
 <%@ Import Namespace="System.IO" %>
-<%@ Import Namespace="Azure.Storage.Blobs.Models" %>
 <%@ Import Namespace="ICSharpCode.SharpZipLib.Core" %>
 <%@ Import Namespace="ICSharpCode.SharpZipLib.Zip" %>
 <%@ Import Namespace="Sitecore" %>
-<%@ Import Namespace="Sitecore.Collections" %>
 <%@ Import Namespace="Sitecore.Data" %>
 <%@ Import Namespace="Sitecore.Data.Engines" %>
 <%@ Import Namespace="Sitecore.Exceptions" %>
 <%@ Import Namespace="Sitecore.SecurityModel" %>
 <%@ Import Namespace="Newtonsoft.Json" %>
 <%@ Import Namespace="Sitecore.Data.Items" %>
-<%@ Import Namespace="Sitecore.localhost" %>
-
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
