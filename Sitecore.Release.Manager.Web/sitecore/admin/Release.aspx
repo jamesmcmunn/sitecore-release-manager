@@ -17,10 +17,6 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-                
-
-        <script runat="server" src="Release.aspx.cs">
-        </script>
         <script runat="server">
             
             public const string WARNING = "warning text-dark";
