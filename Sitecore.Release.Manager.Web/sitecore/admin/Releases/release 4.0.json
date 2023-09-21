@@ -1,0 +1,15 @@
+{
+  "Publishing": [
+    {
+      "Path": "/sitecore/templates/Common/Folder",
+      "SubItems": true
+    },
+    {
+      "Path": "/sitecore/content/Home",
+      "SubItems": true
+    }
+  ],
+  "Packages": [
+    "Sample package 2-2023.0.0.2"
+  ]
+}

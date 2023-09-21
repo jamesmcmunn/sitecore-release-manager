@@ -1,0 +1,12 @@
+{
+  "Publishing": [
+    {
+      "Path": "/sitecore/templates/Common/Folder",
+      "SubItems": false
+    }
+  ],
+  "Packages": [
+    "Sample package 3-2023.0.0.1",
+    "Sample package 4-2023.0.0.1"
+  ]
+}
