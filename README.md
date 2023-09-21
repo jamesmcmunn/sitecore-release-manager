@@ -8,3 +8,7 @@ Intended to be used firstly by developers to source control packages that are pa
 This is *not* intended as a replacement for great tools like Unicorn, but lets you deploy content and confirm that that content has been deployed and then published correctly. If you aren't yet using source control for things like templates - then please look into Unicorn / Sitecore Content Serialization as a first port of call. As a stop gap - this tool may work as a temporary replacement tool and allow developers to install each others packages and publish the correct Sitecore nodes during a development and release work flow. 
 
 Feel free to ping me with suggestions - I built thiis for a project after realising the need for a quick solution for a client.
+
+Quick screen grab 
+
+![image](https://github.com/jamesmcmunn/sitecore-release-manager/assets/61057954/d01a9311-f3b4-4bf7-ab2f-d309a8bf661c)
