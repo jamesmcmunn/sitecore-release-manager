@@ -55,7 +55,6 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <None Include="App_Data\packages\Sample package 1-2023.0.0.1.zip" />
     <None Include="App_Data\packages\Sample package 2-2023.0.0.1.zip" />
     <None Include="App_Data\packages\Sample package 2-2023.0.0.2.zip" />
